@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfe418e2-678d-4ec2-ba9a-b942a235569f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ght=&quot;200&quot;</find>
+      <find>heading</find>
+      <find>primary</find>
+      <find>z</find>
+      <find>&lt;p&gt;'.$pull_data['PokemonName'].'&lt;/p&gt;</find>
+      <find>label</find>
+      <find>group</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dbinfo.php" />
+        <option value="$PROJECT_DIR$/header.css" />
+        <option value="$PROJECT_DIR$/Pokemons.php" />
+        <option value="$PROJECT_DIR$/side.php" />
+        <option value="$PROJECT_DIR$/SinglePokemon.php" />
+        <option value="$PROJECT_DIR$/SearchQuery.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Forum.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/PokeProfile.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PokeLookUp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokeLookUp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe418e2-678d-4ec2-ba9a-b942a235569f" name="Default" comment="" />
+      <created>1513785043158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513785043158</updated>
+      <workItem from="1513785044412" duration="1151000" />
+      <workItem from="1533566060029" duration="29000" />
+      <workItem from="1533566119230" duration="42318000" />
+      <workItem from="1533768516353" duration="8299000" />
+      <workItem from="1533830173839" duration="2890000" />
+      <workItem from="1533834413892" duration="8502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63189000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17916666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PokeProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3405">
+          <caret line="227" column="3" lean-forward="false" selection-start-line="227" selection-start-column="3" selection-end-line="227" selection-end-column="3" />
+          <folding>
+            <marker date="1533793113233" expanded="true" signature="1018:1045" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1058" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1072" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1124:1163" ph="SELECT Tier Tier" />
+            <marker date="1533793113233" expanded="true" signature="1398:1416" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1534:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1578:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1673:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1724:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2041:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:2235" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2259:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3342:3707" ph="..." />
+            <marker date="1533793113233" expanded="false" signature="3423:3436" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3600:3612" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3849:3862" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="4146:4184" ph="SELECT * FRO... Places" />
+            <marker date="1533793113233" expanded="true" signature="4827:4970" ph="SELECT * FRO... Evolution" />
+            <marker date="1533793113233" expanded="true" signature="6705:6855" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7093:7119" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7371:7440" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7670:7693" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7942:7984" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8217:8240" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="8578:8678" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8899:8922" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9161:9290" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="9512:9535" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9917:9954" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:9990" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:10056" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="10313:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10349:10401" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10434:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10488:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10537:10557" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10558:10695" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10658:10671" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10744:10764" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10765:10904" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10867:10880" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10935:10955" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10956:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11015:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11147:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11176:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11276:11326" ph="SELECT Pokem... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="11828:12005" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11861:11874" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="12453:12513" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12521" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12528" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12540" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12543:12557" ph="INSERT INTO Message... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokeProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1533793113233" expanded="true" signature="1018:1045" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1058" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1072" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1124:1163" ph="SELECT Tier Tier" />
+            <marker date="1533793113233" expanded="true" signature="1398:1416" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1534:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1578:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1673:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1724:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2041:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:2235" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2259:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3342:3707" ph="..." />
+            <marker date="1533793113233" expanded="false" signature="3423:3436" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3600:3612" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3849:3862" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="4146:4184" ph="SELECT * FRO... Places" />
+            <marker date="1533793113233" expanded="true" signature="4827:4970" ph="SELECT * FRO... Evolution" />
+            <marker date="1533793113233" expanded="true" signature="6705:6855" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7093:7119" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7371:7440" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7670:7693" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7942:7984" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8217:8240" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="8578:8678" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8899:8922" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9161:9290" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="9512:9535" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9917:9954" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:9990" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:10056" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="10313:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10349:10401" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10434:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10488:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10537:10557" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10558:10695" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10658:10671" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10744:10764" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10765:10904" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10867:10880" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10935:10955" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10956:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11015:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11147:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11176:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11276:11326" ph="SELECT Pokem... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="11828:12005" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11861:11874" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="12453:12513" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12521" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12528" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12540" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12543:12557" ph="INSERT INTO Message... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processform.php" />
+    <entry file="file://$PROJECT_DIR$/signup.php" />
+    <entry file="file://$PROJECT_DIR$/validatelogin.php" />
+    <entry file="file://$PROJECT_DIR$/SingleGame.php" />
+    <entry file="file://$PROJECT_DIR$/side.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="133" lean-forward="false" selection-start-line="10" selection-start-column="133" selection-end-line="10" selection-end-column="133" />
+          <folding>
+            <marker date="1533617302029" expanded="true" signature="343:3457" ph="..." />
+            <marker date="1533617302029" expanded="true" signature="3340:3390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SinglePokemon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" column="98" lean-forward="false" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="62" column="158" lean-forward="false" selection-start-line="62" selection-start-column="158" selection-end-line="62" selection-end-column="158" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="73" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="73" />
+          <folding>
+            <marker date="1533611127321" expanded="true" signature="1198:1221" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533611127321" expanded="true" signature="1354:1368" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1355:1368" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1369:1804" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1369:1805" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1369:2596" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1452:1804" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1486:1503" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1637:1656" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1657:1776" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1657:1781" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1692:1719" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1895:1914" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1915:2247" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="1950:1976" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="2140:2152" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="2311:2330" ph="..." />
+            <marker date="1533611127321" expanded="true" signature="2366:2392" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="59" column="34" lean-forward="false" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PokeProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="250" column="27" lean-forward="true" selection-start-line="250" selection-start-column="27" selection-end-line="250" selection-end-column="27" />
+          <folding>
+            <marker date="1533793113233" expanded="true" signature="1018:1045" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1058" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1018:1072" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="1124:1163" ph="SELECT Tier Tier" />
+            <marker date="1533793113233" expanded="true" signature="1398:1416" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1534:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1578:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1624:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1673:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="1724:1851" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2041:2064" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:2235" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2119:4504" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="2259:3174" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3342:3707" ph="..." />
+            <marker date="1533793113233" expanded="false" signature="3423:3436" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3600:3612" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="3849:3862" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="4146:4184" ph="SELECT * FRO... Places" />
+            <marker date="1533793113233" expanded="true" signature="4827:4970" ph="SELECT * FRO... Evolution" />
+            <marker date="1533793113233" expanded="true" signature="6705:6855" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7093:7119" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7371:7440" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="7670:7693" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="7942:7984" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8217:8240" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="8578:8678" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="8899:8922" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9161:9290" ph="SELECT * FRO... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="9512:9535" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="9917:9954" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:9990" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="9917:10056" ph="SELECT UserN... Message" />
+            <marker date="1533793113233" expanded="true" signature="10313:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10349:10401" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10434:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10488:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10537:10557" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10558:10695" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10658:10671" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10744:10764" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10765:10904" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10867:10880" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10935:10955" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="10956:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11015:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11147:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11176:11274" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11276:11326" ph="SELECT Pokem... Pokemon" />
+            <marker date="1533793113233" expanded="true" signature="11828:12005" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="11861:11874" ph="..." />
+            <marker date="1533793113233" expanded="true" signature="12453:12513" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12521" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12528" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12453:12540" ph="INSERT INTO Message... " />
+            <marker date="1533793113233" expanded="true" signature="12543:12557" ph="INSERT INTO Message... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
